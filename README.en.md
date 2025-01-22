@@ -1,11 +1,29 @@
 # cloud2024
 
 #### Description
-springcloud
+SpringCloud与SpringCloud Alibaba主要讲解的内容：
+服务注册与发现
+- Consul
+- Alibaba Nacos
+服务调用和负载均衡
+- LoadBalancer
+- OpenFeign
+分布式事务
+- Alibaba Seata
+服务熔断和降级
+- Circuit Breaker
+- Alibaba Sentinel
+服务链路追踪
+- Micrometer Tracing
+服务网关 
+- GateWay
+分布式配置管理
+- Consul
+- Alibaba Nacos
 
 #### Software Architecture
 Software architecture description
-
+SpringCloud与SpringCloud Alibaba
 #### Installation
 
 1.  xxxx
@@ -14,9 +32,12 @@ Software architecture description
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Java             Java17+
+2.  cloud            2023.0.0
+3.  boot             3.2.4
+4.  cloud alibaba    2023.0.1.0
+5.  Maven            3.9+
+6.  Mysql            8.0+
 
 #### Contribution
 
